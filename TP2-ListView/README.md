@@ -2,4 +2,4 @@
 
 ### 1. Demo
 
-![Calculator App Screenshot](./../screenshots/listView.png)
+![Calculator App Screenshot](./../screenShots/listView.png)
